@@ -8,6 +8,7 @@ namespace AdminLTE1.Controllers
         public ActionResult InternalServerError()
         {
             return View();
+
         }
 
         [HttpGet]
